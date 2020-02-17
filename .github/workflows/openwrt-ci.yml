@@ -5,7 +5,6 @@
 # Copyright (C) 2019 KFERMercer <KFER.Mercer@gmail.com>
 # 
 # <https://github.com/KFERMercer/OpenWrt-CI>
-# Narizgnaw：非常感谢KFERMercer大佬提供的OpenWrt-CI。
 
 name: 云编译
 
